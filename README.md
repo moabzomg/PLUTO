@@ -8,7 +8,7 @@ I used PLUTO code to simulate 4 problems: the infinite long 1D propagating sound
 
 To run the PLUTO code, a C complier such as `gcc`, GNU make and python is required.
 
-Set the environment variable for convenience: `export PLUTO_DIR=/home/user/PLUTO`
+1. Set the environment variable for convenience: `export PLUTO_DIR=/home/user/PLUTO`1
 
 Download `main.c`, `definitions.h`, `pluto.ini`, `init.c`
 

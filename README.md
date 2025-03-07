@@ -10,7 +10,7 @@ To run the PLUTO code, a C complier such as `gcc`, GNU make and python is requir
 
 1. Set the environment variable for convenience: `export PLUTO_DIR=/home/user/PLUTO`1
 
-Download `main.c`, `definitions.h`, `pluto.ini`, `init.c`
+2. Download `main.c`, `definitions.h`, `pluto.ini`, `init.c`, `pluto.h` and put them in your working directory
 
 # Visualisation
 
